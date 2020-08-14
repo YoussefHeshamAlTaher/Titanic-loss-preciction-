@@ -1,1 +1,1 @@
-# Titanic-loss-preciction-
+# Titanic-loss prediction
